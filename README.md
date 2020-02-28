@@ -1,18 +1,18 @@
 # Coding Concepts Sprint 3 Materials - Software Deployment Principles, Github for Team Development
 
-## Team-based Software Development
+### [Team-based Software Development](teamBasedSoftwareDevelopment.md)
 
-## Github and Teams
+### [Github and Teams](githubAndTeams.md)
 
-### Pulls and Pull Requests
+### [Pulls and Pull Requests](pullsAndPullRequests.md)
 
-### Branching
+### [Branching](branching.md)
 
-### Conflict Resolution
+### [Conflict Resolution](conflcitResolution.md)
 
-### Tags and Releases
+### [Tags and Releases](tagsAndReleases.md)
 
-### Stashing
+### [Stashing](stashing.md)
 
 
 
