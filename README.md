@@ -14,5 +14,17 @@
 
 ### [Stashing](stashing.md)
 
+#### Lecture Gist : [placeholder](github.com)
+
+#### In Class Assignment Link : [placeholder](github.com)
+
+#### In Class Assignment Answer Gist : [placeholder](github.com)
+
+#### Classwork Assignment Link : [placeholder](github.com)
+
+#### Classwork Assignemtn Answer Gist : [placeholder](github.com)
+
+#### Classwork Assignment Video Walkthrough : [placeholder](github.com)
+
 
 
