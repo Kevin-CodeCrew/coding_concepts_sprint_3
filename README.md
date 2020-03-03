@@ -12,13 +12,13 @@
 
 <img src="img/agileSDLC.png" width="auto" height="300"/>
 
-[Back to Top](######TOP)
+[Back to Top](#TOP)
 ### GitHub and Teams
 
-[Back to Top](######TOP)
+[Back to Top](#TOP)
 ### Pulls and Pull Requests
 
-[Back to Top](######TOP)
+[Back to Top](#TOP)
 ### Branching
 A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process. You can think of them as a way to request a brand new working directory, staging area, and project history. New commits are recorded in the history for the current branch, which results in a fork in the history of the project.
 
@@ -42,7 +42,7 @@ Merging is Git's way of putting a forked history back together again. The `git m
 
 [Branching Source](https://www.atlassian.com/git/tutorials/using-branches) |  [Merging Source](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 
-[Back to Top](######TOP)
+[Back to Top](#TOP)
 ### Conflict Resolution
 
 Version control systems are all about managing contributions between multiple distributed authors ( usually developers ). Sometimes multiple developers may try to edit the same content. If Developer A tries to edit code that Developer B is editing a conflict may occur. To alleviate the occurrence of conflicts developers will work in separate isolated branches. The git merge command's primary responsibility is to combine separate branches and resolve any conflicting edits.
@@ -55,10 +55,10 @@ Think of these new lines as "conflict dividers". The ======= line is the "center
 
 [Merging Source](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
-[Back to Top](######TOP)
+[Back to Top](#TOP)
 ### Tags and Releases
 
-[Back to Top](######TOP)
+[Back to Top](#TOP)
 ### Stashing
 
 ### Assignments
@@ -69,4 +69,4 @@ Think of these new lines as "conflict dividers". The ======= line is the "center
 * Classwork Assignment Answer Gist : [placeholder](github.com)
 * Classwork Assignment Video Walk through : [placeholder](github.com)
 
-### [Back to Top](######TOP)
+### [Back to Top](#TOP)
