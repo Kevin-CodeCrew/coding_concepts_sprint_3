@@ -14,6 +14,11 @@ create pull request : github will prompt you to review your change and create a 
 merge pull request : review any conflicts and merge
 git pull origin master : pull any remote changes to your local repository
 ```
+## Assignments
+* [Lecture/Code Together Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-lecture-md)
+* [In Class Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-ic-js)
+* [Classwork Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-cw-js)
+* [Classwork Assignment Video Walk Through](#)
 <!-- ## GitHub and Teams
 
 [Back to Top](#TOP) -->
@@ -45,7 +50,7 @@ To pull remote changes to your local repository use `git pull origin master`. By
 [Branching Source](https://www.atlassian.com/git/tutorials/using-branches)
 
 [Back to Top](#TOP)
-## Pulls and Pull Requests
+## Pull Requests
 Once you have pushed to your remote branch navigate to GitHub to manage pull requests in the repository. Select `new pull request` on your repo code page and compare between the master and your branch. You will be notified if the branch you are creating a pull request has conflicts with the master branch. If there are no conflicts, review the differences and approve the pull request to merge. 
 
 <img src="img/branch-dropdown.png" width="auto" height="200"/>
@@ -83,17 +88,11 @@ Merge a pull request into the upstream branch when work is completed. Anyone wit
 
 [Agile Source](https://www.atlassian.com/agile/teams)
 
-[Back to Top](#TOP)
 <!-- ## Tags and Releases
 
 [Back to Top](#TOP)
 ## Stashing
 
 [Back to Top](#TOP) -->
-## Assignments
-* [Lecture/Code Together Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-lecture-md)
-* [In Class Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-ic-js)
-* [Classwork Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-cw-js)
-* [Classwork Assignment Video Walk Through](#)
 
-## [Back to Top](#TOP)
+### [Back to Top](#TOP)
