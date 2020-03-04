@@ -8,6 +8,20 @@
 * [Conflict Resolution](conflcitResolution.md)
 * [Tags and Releases](tagsAndReleases.md)
 * [Stashing](stashing.md) -->
+```
+git status : check which branch you are on and if there are any changes (tracked or un-tracked)
+git branch <branch> : creates a new branch (you have not switched to this branch yet)
+git checkout <branch> : switch to another branch
+
+git add -A : add all changes made on your branch
+git commit -m "meaningful commit message" : commit changes made on your branch
+git push -u origin <branch> : push changes to your branch
+
+create pull request : github will prompt you to review your change and create a pull request
+merge pull request : review any conflicts and merge
+git pull : pull any remote changes to your local repository
+```
+
 ### Team Based Software Development
 
 <img src="img/agileSDLC.png" width="auto" height="300"/>
