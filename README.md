@@ -91,10 +91,9 @@ Merge a pull request into the upstream branch when work is completed. Anyone wit
 
 [Back to Top](#TOP) -->
 ## Assignments
-* In Class Assignment Link : [placeholder](github.com)
-* In Class Assignment Answer Gist : [placeholder](github.com)
-* Classwork Assignment Link : [placeholder](github.com)
-* Classwork Assignment Answer Gist : [placeholder](github.com)
-* Classwork Assignment Video Walk through : [placeholder](github.com)
+* [Lecture/Code Together Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-lecture-md)
+* [In Class Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-ic-js)
+* [Classwork Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-cw-js)
+* [Classwork Assignment Video Walk Through](#)
 
 ## [Back to Top](#TOP)
