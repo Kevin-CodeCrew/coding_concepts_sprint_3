@@ -14,11 +14,6 @@ create pull request : github will prompt you to review your change and create a 
 merge pull request : review any conflicts and merge
 git pull origin master : pull any remote changes to your local repository
 ```
-## Assignments
-* [Lecture/Code Together Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-lecture-md)
-* [In Class Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-ic-js)
-* [Classwork Assignment Answer Gist](https://gist.github.com/autumn-ragland/bf788bf1d2b997f41924c3967acb1e1f#file-cw-js)
-* [Classwork Assignment Video Walk Through](https://youtu.be/fWMJRHC3ijs)
 <!-- ## GitHub and Teams
 
 [Back to Top](#TOP) -->
